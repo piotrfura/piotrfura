@@ -19,4 +19,4 @@ Today, I combine hands-on engineering with product thinking to build secure, aud
 
 💬 Ask me about RegTech, Django, financial/risk workflows, compliance automation, CI/CD with Docker, AI agents for regulated use cases, or transitioning from finance to tech.
 
-📫 You can find me on [DataIntel.pl](https://dataintel.pl), [piotrfura.pl](https://piotrfura.pl) or [LinkedIn](https://www.linkedin.com/in/piotrfura).
+📫 You can find me on [piotrfura.pl](https://piotrfura.pl) or [LinkedIn](https://www.linkedin.com/in/piotrfura).
