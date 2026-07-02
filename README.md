@@ -1,6 +1,6 @@
 ### Piotr Fura — RegTech, Compliance Automation & Applied AI
 
-I build software through [DataIntel.pl](https://dataintel.pl) at the intersection of financial regulation, risk, compliance automation and applied AI.
+I build software through [DataIntel.pl](https://dataintel.pl/en) at the intersection of financial regulation, risk, compliance automation and applied AI.
 
 My journey into software development began after a decade in finance, including Big Four audit and risk management roles in asset management. This background gives me a practical understanding of regulated financial workflows: reporting obligations, controls, audit trails, operational risk and the gap between business needs and technical delivery.
 
